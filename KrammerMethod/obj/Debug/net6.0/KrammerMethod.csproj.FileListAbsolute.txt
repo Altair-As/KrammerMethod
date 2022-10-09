@@ -1,0 +1,15 @@
+C:\Users\Hermit\source\repos\KrammerMethod\KrammerMethod\bin\Debug\net6.0\KrammerMethod.exe
+C:\Users\Hermit\source\repos\KrammerMethod\KrammerMethod\bin\Debug\net6.0\KrammerMethod.deps.json
+C:\Users\Hermit\source\repos\KrammerMethod\KrammerMethod\bin\Debug\net6.0\KrammerMethod.runtimeconfig.json
+C:\Users\Hermit\source\repos\KrammerMethod\KrammerMethod\bin\Debug\net6.0\KrammerMethod.dll
+C:\Users\Hermit\source\repos\KrammerMethod\KrammerMethod\bin\Debug\net6.0\KrammerMethod.pdb
+C:\Users\Hermit\source\repos\KrammerMethod\KrammerMethod\obj\Debug\net6.0\KrammerMethod.csproj.AssemblyReference.cache
+C:\Users\Hermit\source\repos\KrammerMethod\KrammerMethod\obj\Debug\net6.0\KrammerMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hermit\source\repos\KrammerMethod\KrammerMethod\obj\Debug\net6.0\KrammerMethod.AssemblyInfoInputs.cache
+C:\Users\Hermit\source\repos\KrammerMethod\KrammerMethod\obj\Debug\net6.0\KrammerMethod.AssemblyInfo.cs
+C:\Users\Hermit\source\repos\KrammerMethod\KrammerMethod\obj\Debug\net6.0\KrammerMethod.csproj.CoreCompileInputs.cache
+C:\Users\Hermit\source\repos\KrammerMethod\KrammerMethod\obj\Debug\net6.0\KrammerMethod.dll
+C:\Users\Hermit\source\repos\KrammerMethod\KrammerMethod\obj\Debug\net6.0\refint\KrammerMethod.dll
+C:\Users\Hermit\source\repos\KrammerMethod\KrammerMethod\obj\Debug\net6.0\KrammerMethod.pdb
+C:\Users\Hermit\source\repos\KrammerMethod\KrammerMethod\obj\Debug\net6.0\KrammerMethod.genruntimeconfig.cache
+C:\Users\Hermit\source\repos\KrammerMethod\KrammerMethod\obj\Debug\net6.0\ref\KrammerMethod.dll
