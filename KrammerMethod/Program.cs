@@ -85,9 +85,33 @@
                 }
             }
 
-            double det = Determ(matrix);
+            Console.WriteLine("Insert column of free coefficietns");
 
-            Console.WriteLine("Determinant of matrix = " + Math.Round(det, 3));
+            for (int i = 0; i < n; i++)
+            {
+                Console.Write("k[" + i + "] = ");
+                freedigits[i] = double.Parse(Console.ReadLine());
+            }
+
+            double detMain = Determ(matrix);
+
+            Console.WriteLine("Determinant of matrix = " + Math.Round(detMain, 3));
+            double[] detArray = new double[n];
+            double[] helpArray = new double[n];
+
+            for(int i = 0; i < n; i++)
+            {
+                for (int j = 0; j < n; j++)
+                {
+                    helpArray[j] = matrix[j, i];
+                    matrix[j, i] = freedigits[j];
+                }
+                detArray[i] = Determ(matrix);
+                for (int j = 0; j < n; j++)
+                {
+                    matrix[j, i] = helpArray[j];
+                }
+            }
 
             for (int i = 0; i < n; i++)
             {
@@ -96,6 +120,11 @@
                     Console.Write(matrix[i, j] + " ");
                 }
                 Console.WriteLine();
+            }
+
+            for (int i = 0; i < n; i++)
+            {
+                Console.WriteLine("x" + i + " = " + detArray[i] / detMain);
             }
         }
     }
