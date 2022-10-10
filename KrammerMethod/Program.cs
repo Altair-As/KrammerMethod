@@ -124,7 +124,7 @@
 
             for (int i = 0; i < n; i++)
             {
-                Console.WriteLine("x" + i + " = " + detArray[i] / detMain);
+                Console.WriteLine("x" + i + " = " + Math.Round(detArray[i] / detMain, 3));
             }
         }
     }
